@@ -1,4 +1,4 @@
-# CustomerSegmentation : Retail Analytics
+# Customer Segmentation : Retail Analytics
 # Unsupervised Problem : Kmeans Clustering, RFM
 
 # Segmentation
